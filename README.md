@@ -1,5 +1,5 @@
 # chainlink-workshop
-Playground for chainlink python workshop
+Playground for chainlink python workshop.
 
 Setup instructions:
 https://medium.com/@luisppinto/smart-contract-workshop-setup-instructions-apeworx-and-python-f9a736dc4900
